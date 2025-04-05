@@ -64,6 +64,8 @@ streamlit run app.py
 
 ```bash
 
+![Streamlit App](image/proto.png)
+
 ## 🤖 Machine Learning Models Used
 
 This project utilizes a hybrid ML architecture tailored for genomic prediction:
