@@ -62,6 +62,8 @@ pip install -r requirements.txt
 # Launch app
 streamlit run app.py
 
+```bash
+
 ## 🤖 Machine Learning Models Used
 
 This project utilizes a hybrid ML architecture tailored for genomic prediction:
