@@ -62,7 +62,7 @@ pip install -r requirements.txt
 # Launch app
 streamlit run app.py
 
-```bash
+```
 
 ![Streamlit App](image/proto.png)
 
